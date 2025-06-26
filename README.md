@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pelo Ashley para ensino de tecnologias 
 <br>
 
 <p align="center">
-  <img alt="projecto ASH" src=".github/capa.jpg" width="100%">
+  <img alt="projecto ASH" src=".github/Capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
